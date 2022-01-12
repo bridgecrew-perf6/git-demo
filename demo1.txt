@@ -1,6 +1,3 @@
 for git commit history
-<<<<<<< HEAD
 demo for pull the latest updates.
-=======
-this is demo to explain git pull for latest updates in remote repo.
->>>>>>> 3e479df796d18c154277a3f0b0f154231746bbaf
+fetch and merge in loacal repo
