@@ -1,2 +1,3 @@
 Hello world, this is git demo session.
 my second commit with demo
+now topic is about to check commit history
