@@ -6,7 +6,10 @@ fetch and merge in loacal repo
 =======
 this is demo to explain git pull for latest updates in remote repo.
 >>>>>>> 3e479df796d18c154277a3f0b0f154231746bbaf
+<<<<<<< HEAD
 its for fetch and merge in remote
 >>>>>>> refs/remotes/origin/main
 undo the changes to local for changes.
 resver demo to undo
+=======
+>>>>>>> parent of 484faf1 (Update demo1.txt)
